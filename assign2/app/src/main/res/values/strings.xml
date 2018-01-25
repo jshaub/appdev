@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="header_email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_subject">Email Subject</string>
+    <string name="header_complexity">Complexity</string>
+    <string name="data_structure">Data Structure</string>
+    <string name="operations">Operations</string>
+    <string name="getMin_check">Get Min</string>
+    <string name="insert_check">Insert</string>
+    <string name="search_check">Search</string>
+    <string name="worst_case">Worst Case</string>
+    <string name="avgCase_radio">Average Case</string>
+    <string name="worstCase_radio">Worst Case</string>
+    <string name="header_result">Result</string>
+    <string name="to_result">To:</string>
+    <string name="subject_result">Subject:</string>
+
+    // Array for Data Structures spinner choices
+    <string-array name="ds_array">
+        <item></item>
+        <item>2-3 Tree</item>
+        <item>Binary Search Tree</item>
+        <item>Hash Table</item>
+        <item>Linked List</item>
+        <item>Min Heap</item>
+    </string-array>
+</resources>

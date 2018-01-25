@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.jls6595.assignment2.MainActivity">
+
+    <TextView
+        android:id="@+id/header_email"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8sp"
+        android:ems="10"
+        android:text="@string/header_email"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/email_address"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:hint="@string/email_address"
+        android:inputType="textEmailAddress"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/header_email"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/email_subject"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:hint="@string/email_subject"
+        android:inputType="textEmailAddress"
+        app:layout_constraintStart_toEndOf="@+id/email_address"
+        app:layout_constraintTop_toTopOf="@+id/email_address" />
+
+    <TextView
+        android:id="@+id/header_complexity"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:text="@string/header_complexity"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        app:layout_constraintStart_toStartOf="@+id/header_email"
+        app:layout_constraintTop_toBottomOf="@+id/header_email" />
+
+    <TextView
+        android:id="@+id/data_structure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/data_structure"
+        app:layout_constraintStart_toEndOf="@+id/header_complexity"
+        app:layout_constraintTop_toTopOf="@+id/header_complexity" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="312dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="8dp"
+        android:entries="@array/ds_array"
+        app:layout_constraintStart_toEndOf="@+id/data_structure"
+        app:layout_constraintTop_toTopOf="@+id/data_structure" />
+
+    <TextView
+        android:id="@+id/operations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/operations"
+        app:layout_constraintStart_toStartOf="@id/data_structure"
+        app:layout_constraintTop_toBottomOf="@+id/data_structure" />
+
+    <CheckBox
+        android:id="@+id/getMin_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/getMin_check"
+        app:layout_constraintEnd_toStartOf="@+id/insert_check"
+        app:layout_constraintStart_toEndOf="@+id/operations"
+        app:layout_constraintTop_toTopOf="@+id/operations" />
+
+    <CheckBox
+        android:id="@+id/insert_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/insert_check"
+        app:layout_constraintEnd_toStartOf="@+id/search_check"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/getMin_check"
+        app:layout_constraintTop_toTopOf="@+id/getMin_check" />
+
+    <CheckBox
+        android:id="@+id/search_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/search_check"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/insert_check"
+        app:layout_constraintTop_toTopOf="@+id/insert_check" />
+
+    <TextView
+        android:id="@+id/worst_case"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/worst_case"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@id/getMin_check"
+        app:layout_constraintStart_toStartOf="@+id/operations" />
+
+    <RadioGroup
+        android:id="@+id/worstCase_radioGroup"
+        android:layout_width="307dp"
+        android:layout_height="29dp"
+        android:checkedButton="@id/avgCase_radio"
+        android:orientation="horizontal"
+        android:paddingEnd="0dp"
+        android:paddingStart="0sp"
+        app:layout_constraintEnd_toEndOf="@id/search_check"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/getMin_check"
+        app:layout_constraintTop_toTopOf="@+id/worst_case">
+
+        <RadioButton
+            android:id="@+id/avgCase_radio"
+            android:layout_width="163dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/avgCase_radio"
+            app:layout_constraintStart_toStartOf="@id/getMin_check"
+            app:layout_constraintTop_toBottomOf="@id/worst_case" />
+
+        <RadioButton
+            android:id="@+id/worstCase_radio"
+            android:layout_width="118dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/worstCase_radio"
+            app:layout_constraintEnd_toEndOf="@id/search_check"
+            app:layout_constraintTop_toBottomOf="@id/worst_case" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/header_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/header_result"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        app:layout_constraintStart_toStartOf="@id/header_email"
+        app:layout_constraintTop_toBottomOf="@id/worstCase_radioGroup" />
+
+    <TextView
+        android:id="@+id/to_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/to_result"
+        app:layout_constraintStart_toStartOf="@id/data_structure"
+        app:layout_constraintTop_toTopOf="@+id/header_result" />
+
+    <TextView
+        android:id="@+id/subject_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/subject_result"
+        app:layout_constraintStart_toStartOf="@id/data_structure"
+        app:layout_constraintTop_toBottomOf="@id/to_result" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/email_fab"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_dialog_email" />
+
+</android.support.constraint.ConstraintLayout>
