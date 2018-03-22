@@ -45,7 +45,7 @@
         android:id="@+id/header_complexity"
         android:layout_width="110dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="25dp"
+        android:layout_marginTop="20dp"
         android:ems="10"
         android:text="@string/header_complexity"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
@@ -82,6 +82,7 @@
 
     <CheckBox
         android:id="@+id/getMin_check"
+        android:onClick="operationsChecked"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -92,6 +93,7 @@
 
     <CheckBox
         android:id="@+id/insert_check"
+        android:onClick="operationsChecked"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/insert_check"
@@ -102,6 +104,7 @@
 
     <CheckBox
         android:id="@+id/search_check"
+        android:onClick="operationsChecked"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/search_check"
@@ -113,7 +116,7 @@
         android:id="@+id/worst_case"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/worst_case"
+        android:text="@string/running_time"
         android:layout_marginTop="8dp"
         app:layout_constraintTop_toBottomOf="@id/getMin_check"
         app:layout_constraintStart_toStartOf="@+id/operations" />
@@ -133,6 +136,7 @@
 
         <RadioButton
             android:id="@+id/avgCase_radio"
+            android:onClick="runningTimeSelected"
             android:layout_width="163dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -142,6 +146,7 @@
 
         <RadioButton
             android:id="@+id/worstCase_radio"
+            android:onClick="runningTimeSelected"
             android:layout_width="118dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -155,7 +160,6 @@
         android:id="@+id/header_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
         android:text="@string/header_result"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         app:layout_constraintStart_toStartOf="@id/header_email"
@@ -189,5 +193,15 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@android:drawable/ic_dialog_email" />
+
+    <TextView
+        android:id="@+id/email_body"
+        android:layout_width="484dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="8sp"
+        android:layout_marginTop="0sp"
+        android:text=""
+        app:layout_constraintStart_toStartOf="@+id/subject_result"
+        app:layout_constraintTop_toBottomOf="@+id/subject_result" />
 
 </android.support.constraint.ConstraintLayout>

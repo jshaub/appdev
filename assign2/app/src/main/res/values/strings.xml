@@ -9,20 +9,37 @@
     <string name="getMin_check">Get Min</string>
     <string name="insert_check">Insert</string>
     <string name="search_check">Search</string>
-    <string name="worst_case">Worst Case</string>
+    <string name="running_time">Running Time</string>
     <string name="avgCase_radio">Average Case</string>
     <string name="worstCase_radio">Worst Case</string>
     <string name="header_result">Result</string>
     <string name="to_result">To:</string>
+    <string name="to_result_base">To:</string>
     <string name="subject_result">Subject:</string>
+    <string name="subject_result_base">Subject:</string>
 
     // Array for Data Structures spinner choices
     <string-array name="ds_array">
-        <item></item>
+        <item>none</item>
         <item>2-3 Tree</item>
         <item>Binary Search Tree</item>
         <item>Hash Table</item>
         <item>Linked List</item>
         <item>Min Heap</item>
     </string-array>
+
+    // Strings for body text after clicking FAB
+    <string name="middle"> Time Complexity for </string>
+    <string name="ops"> Operations\n</string>
+    <string name="get_minimum">Get Minimum: </string>
+    <string name="btree">O(log n)</string>
+    <string name="bst_avg">O(log n)</string>
+    <string name="bst_worst">O(n)</string>
+    <string name="hash_avg">O(1)</string>
+    <string name="hash_worst">O(n)</string>
+    <string name="linkedList_minsearch">O(n)</string>
+    <string name="linkedList_insert">(at the beginning): O(1)</string>
+    <string name="minHeap_getMin">O(1)</string>
+    <string name="minHeap_insertsearch">O(log n)</string>
+
 </resources>
