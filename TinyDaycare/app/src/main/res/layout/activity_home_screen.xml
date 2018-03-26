@@ -20,57 +20,132 @@
         app:menu="@menu/navigation" />
 
     <TextView
-        android:id="@+id/carecoins"
+        android:id="@+id/carecoins_label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="@string/care_coins"
+        android:text="@string/carecoins_label"
         android:textSize="20sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/play_button"
+    <TextView
+        android:id="@+id/user_carecoins"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:text="@string/play_button"
-        app:layout_constraintEnd_toStartOf="@+id/feed_button"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/steps" />
-
-    <Button
-        android:id="@+id/feed_button"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="68dp"
-        android:layout_marginTop="8dp"
-        android:text="@string/feed_button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/steps" />
+        android:layout_marginStart="4dp"
+        android:text="@string/user_carecoins"
+        android:textSize="20sp"
+        app:layout_constraintStart_toEndOf="@+id/carecoins_label"
+        app:layout_constraintTop_toTopOf="@+id/carecoins_label" />
 
     <ImageView
         android:id="@+id/selected_creature"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/navigation"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/egg_sprite" />
+        app:srcCompat="@drawable/egg_sprite_small" />
 
-    <TextView
-        android:id="@+id/steps"
+    <LinearLayout
+        android:id="@+id/steps_viewGroup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:text="@string/steps_remaining"
-        android:textSize="24sp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/selected_creature" />
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@id/hatch_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/selected_creature">
+
+        <TextView
+            android:id="@+id/steps_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/steps_label"
+            android:textSize="24sp"
+            app:layout_constraintHorizontal_chainStyle="packed" />
+
+        <TextView
+            android:id="@+id/user_steps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="@string/user_steps"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/steps_slash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/steps_slash"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/steps_required"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/steps_required"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/hatch_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/hatch_button"
+        android:onClick="buttonHatchClick"
+        app:layout_constraintTop_toBottomOf="@id/steps_viewGroup"
+        app:layout_constraintBottom_toTopOf="@id/navigation"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <LinearLayout
+        android:id="@+id/button_viewGroup"
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@id/navigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/selected_creature">
+
+        <Button
+            android:id="@+id/play_button"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play_button"
+            app:layout_constraintHorizontal_chainStyle="packed" />
+
+        <Button
+            android:id="@+id/feed_button"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:text="@string/feed_button" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/new_player_message"
+        android:layout_width="412dp"
+        android:layout_height="422dp"
+        android:text="@string/new_player_message"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toTopOf="@+id/navigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.49" />
 
 </android.support.constraint.ConstraintLayout>

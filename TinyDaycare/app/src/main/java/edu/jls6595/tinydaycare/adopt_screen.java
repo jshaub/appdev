@@ -1,6 +1,5 @@
 package edu.jls6595.tinydaycare;
 
-import android.content.ContentValues;
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -12,11 +11,15 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import static edu.jls6595.tinydaycare.Creature.CreatureType.SMALL;
+import static edu.jls6595.tinydaycare.Pokemon.PokemonType.LARGE;
+import static edu.jls6595.tinydaycare.Pokemon.PokemonType.MEDIUM;
+import static edu.jls6595.tinydaycare.Pokemon.PokemonType.SMALL;
 
 public class adopt_screen extends AppCompatActivity {
 
+    PokemonDB pokemonDB;
     SQLiteDatabase database;
+    private PokemonList pList;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -60,7 +63,10 @@ public class adopt_screen extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        CreatureDB.getInstance(this).getDatabase(new CreatureDB.OnDBReadyListener() {
+        pList = pList.getInstance();
+        pokemonDB = PokemonDB.getInstance(this);
+
+        pokemonDB.getDatabase(new PokemonDB.OnDBReadyListener() {
             @Override
             public void onDBReady(SQLiteDatabase db) {
                 database = db;
@@ -68,17 +74,35 @@ public class adopt_screen extends AppCompatActivity {
         });
     }
 
-    public void btnAdoptClick(View view) {
-        if(database == null) {
-            Toast.makeText(this, "Creating Database", Toast.LENGTH_SHORT).show();
-        }
-        else {
-            ContentValues vals = new ContentValues();
+    /* Create a new Pokemon object and add it to the database */
+    // TODO: Implement check to see if user has enough CareCoins
+    public void eggClick(View view) {
+        int eggType = view.getId();
 
-            vals.put("type", String.valueOf(Creature.CreatureType.SMALL));
-            long newRowId = database.insert("creatures", null, vals);
-
-            Toast.makeText(this, "Please take care of it :)", Toast.LENGTH_SHORT).show();
+        if (pList.getCurrentIndex() == pList.getMaxSize()) {
+            Toast.makeText(this, "You cannot adopt any more Pokemon", Toast.LENGTH_SHORT).show();
+            return;
         }
+
+        switch(eggType) {
+            case R.id.smallEgg:
+                Log.d("eggType", "small egg clicked");
+                new Pokemon(SMALL, pokemonDB, this);
+                Toast.makeText(this, "You adopted a small-sized Pokemon!", Toast.LENGTH_SHORT).show();
+                break;
+            case R.id.mediumEgg:
+                Log.d("eggType", "medium egg clicked");
+                new Pokemon(MEDIUM, pokemonDB, this);
+                Toast.makeText(this, "You adopted a medium-sized Pokemon!", Toast.LENGTH_SHORT).show();
+                break;
+            case R.id.largeEgg:
+                Log.d("eggType", "large egg clicked");
+                new Pokemon(LARGE, pokemonDB, this);
+                Toast.makeText(this, "You adopted a large-sized Pokemon!", Toast.LENGTH_SHORT).show();
+                break;
+        }
+
+        return;
     }
+
 }

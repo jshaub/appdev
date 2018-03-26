@@ -9,14 +9,23 @@
 
     // Home Screen
     <string name="title_activity_home_screen">Home</string>
-    <string name="care_coins">CareCoins: 1000</string>
-    <string name="steps_remaining">Steps: 563/5000</string>
+    <string name="carecoins_label">CareCoins:</string>
+    <string name="user_carecoins">0</string>
+    <string name="new_player_message">Go to the Adopt screen to get your first Pokemon!</string>
+    <string name="steps_label">Steps Until Hatching:</string>
+    <string name="user_steps">0</string>
+    <string name="steps_slash">/</string>
+    <string name="steps_required">250</string>
     <string name="play_button">Play</string>
     <string name="feed_button">Feed</string>
+    <string name="hatch_button">Hatch!</string>
 
     // Adopt Screen
     <string name="title_activity_adopt_screen">Adopt</string>
-    <string name="adopt_button">Adopt Creature</string>
+    <string name="tap_to_adopt">Tap an egg to adopt!</string>
+    <string name="cost_small">Cost: 500 CareCoins</string>
+    <string name="cost_medium">Cost: 750 CareCoins</string>
+    <string name="cost_large">Cost: 1000 CareCoins</string>
 
     // Collection Screen
     <string name="title_activity_collection_screen">Collection</string>

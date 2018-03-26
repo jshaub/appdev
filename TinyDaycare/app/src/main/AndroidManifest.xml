@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity
             android:name=".home_screen"
             android:label="@string/app_name">
@@ -19,7 +18,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".collection_screen"
             android:label="@string/title_activity_collection_screen">
@@ -27,7 +25,6 @@
                 <action android:name="android.intent.action.COLLECTION" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".settings_screen"
             android:label="@string/title_activity_settings_screen">
@@ -35,10 +32,10 @@
                 <action android:name="android.intent.action.SETTINGS" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".adopt_screen"
-            android:label="@string/title_activity_adopt_screen"></activity>
+            android:label="@string/title_activity_adopt_screen" />
+
     </application>
 
 </manifest>

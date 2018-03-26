@@ -16,7 +16,7 @@
 
     <item
         android:id="@+id/navigation_adopt"
-        android:icon="@drawable/egg_sprite"
+        android:icon="@drawable/egg_sprite_small"
         android:title="@string/bottomNav_adopt"
         app:showAsAction="ifRoom|withText"/>
 
