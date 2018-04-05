@@ -21,8 +21,14 @@ import static edu.jls6595.tinydaycare.PokemonList.getInstance;
 
 public class collection_screen extends AppCompatActivity {
 
+    // Used to register a callback when the currently selected pokemon is changed
+    public interface OnPokemonChange {
+        void changeComplete();
+    }
+
     private final int MAX_SIZE = 15;
     PokemonList pList;
+    private static OnPokemonChange listener;
     static Pokemon tappedPokemon;
     ImageView tappedPokemonView;
 
@@ -52,42 +58,6 @@ public class collection_screen extends AppCompatActivity {
             return false;
         }
     };
-
-    // When a user taps on a creature or egg that is not currently selected, show alert dialog asking if they really want to switch
-    public static class SwitchDialog extends DialogFragment {
-
-        @Override
-        public Dialog onCreateDialog(Bundle savedInstanceState) {
-            AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
-
-            builder.setTitle(R.string.switch_dialog_title);
-            builder.setMessage(R.string.switch_dialog_message);
-
-            builder.setPositiveButton(R.string.switch_dialog_positive, new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialogInterface, int i) {
-                    positivePress();
-                }
-            });
-
-            builder.setNegativeButton(R.string.switch_dialog_negative, new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialogInterface, int i) {
-                    // User pressed "No", don't need to do anything
-                }
-            });
-
-            return builder.create();
-        }
-
-        public void positivePress() {
-            Log.d("positivePress", "Dialog successfully called positivePress()");
-
-            Log.d("collectionscreen", "tappedPokemon = " + tappedPokemon);
-            PokemonList.getInstance().updateCurrentPokemon(tappedPokemon);
-            Log.d("collectionscreen", "current Pokemon = " + PokemonList.currentPokemon);
-        }
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -128,6 +98,10 @@ public class collection_screen extends AppCompatActivity {
                 }
             });
         }
+    }
+
+    public void setOnPokemonChangeListener(OnPokemonChange listener) {
+        this.listener = listener;
     }
 
     private void createImageViewArray(ImageView[] array) {
@@ -176,6 +150,43 @@ public class collection_screen extends AppCompatActivity {
         }
 
         return -1;
+    }
+
+    // When a user taps on a creature or egg that is not currently selected, show alert dialog asking if they really want to switch
+    public static class SwitchDialog extends DialogFragment {
+
+        @Override
+        public Dialog onCreateDialog(Bundle savedInstanceState) {
+            AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+
+            builder.setTitle(R.string.switch_dialog_title);
+            builder.setMessage(R.string.switch_dialog_message);
+
+            builder.setPositiveButton(R.string.switch_dialog_positive, new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                    positivePress();
+                }
+            });
+
+            builder.setNegativeButton(R.string.switch_dialog_negative, new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                    // User pressed "No", don't need to do anything
+                }
+            });
+
+            return builder.create();
+        }
+
+        public void positivePress() {
+            Log.d("positivePress", "Dialog successfully called positivePress()");
+            Log.d("collectionscreen", "tappedPokemon = " + tappedPokemon);
+
+            PokemonList.getInstance().updateCurrentPokemon(tappedPokemon);
+            listener.changeComplete();
+            Log.d("collectionscreen", "current Pokemon = " + PokemonList.currentPokemon);
+        }
     }
 
 }
