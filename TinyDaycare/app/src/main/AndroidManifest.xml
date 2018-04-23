@@ -36,6 +36,10 @@
             android:name=".adopt_screen"
             android:label="@string/title_activity_adopt_screen" />
 
+        <service
+            android:name=".TinyDaycareService"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>

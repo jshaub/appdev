@@ -1,4 +1,7 @@
-#Thu Apr 05 19:05:19 EDT 2018
-base.0=C\:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Apr 11 21:50:33 EDT 2018
+base.0=C\:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=C\:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12

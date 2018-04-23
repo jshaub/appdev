@@ -26,6 +26,9 @@
     <string name="cost_small">Cost: 500 CareCoins</string>
     <string name="cost_medium">Cost: 750 CareCoins</string>
     <string name="cost_large">Cost: 1000 CareCoins</string>
+    <string name="toast_adopt_small">You adopted a small-sized Pokemon!</string>
+    <string name="toast_adopt_medium">You adopted a medium-sized Pokemon!</string>
+    <string name="toast_adopt_large">You adopted a large-sized Pokemon!</string>
 
     // Collection Screen
     <string name="title_activity_collection_screen">Collection</string>
@@ -50,5 +53,6 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="careCoins_error">You don\'t have enough CareCoins to adopt</string>
 
 </resources>

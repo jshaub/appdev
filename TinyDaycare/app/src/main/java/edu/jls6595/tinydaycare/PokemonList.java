@@ -1,39 +1,39 @@
 package edu.jls6595.tinydaycare;
 
-import android.content.Context;
 import android.util.Log;
-import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class PokemonList {
     private final int MAX_SIZE = 15;
     private static Pokemon[] list;
     private static PokemonList pList;
     private static int currentIndex;
-    private static TextView currentStepsView;
-    public static int indexOfSelectedPokemon;
     public static Pokemon currentPokemon;
+    private boolean loaded;
 
+    // Arrays for storing Pokemon information in a bundle when onSaveInstanceState is invoked
+    private boolean[] array_hatched = new boolean[MAX_SIZE];
+    private boolean[] array_readyToHatch = new boolean[MAX_SIZE];
+    private int[] array_currentSteps = new int[MAX_SIZE];
+    private int[] array_stepsNeeded = new int[MAX_SIZE];
+    private int[] array_eggSprite = new int[MAX_SIZE];
+    private int[] array_hatchedSprite = new int[MAX_SIZE];
+    private int[] array_cost = new int[MAX_SIZE];
+    private int[] array_pokemonIndex = new int[MAX_SIZE];
+    private int[] array_type = new int[MAX_SIZE];
 
-    private PokemonList(TextView currentStepsView) {
+    private PokemonList() {
         list = new Pokemon[MAX_SIZE];
         currentIndex = 0;
-
-        this.currentStepsView = currentStepsView;
+        loaded = false;
     }
 
     // Should only be called on Home Screen at start of application
-    public static synchronized PokemonList getInstance(TextView currentStepsView) {
+    public static synchronized PokemonList getInstance() {
         if(pList == null) {
-            pList = new PokemonList(currentStepsView);
+            pList = new PokemonList();
         }
 
-        return pList;
-    }
-
-    // Called at every other point in the application to get the instance of the PokemonList
-    public static synchronized PokemonList getInstance() {
         return pList;
     }
 
@@ -41,9 +41,6 @@ public class PokemonList {
         return list;
     }
 
-    public TextView getCurrentStepsView() {
-        return currentStepsView;
-    }
     public int getCurrentIndex() {
         return currentIndex;
     }
@@ -52,19 +49,28 @@ public class PokemonList {
         return MAX_SIZE;
     }
 
-    public void addPokemon(Pokemon p, Context context) {
+    public void addPokemon(Pokemon p) {
+        loaded = true;
         // If list is empty, then this pokemon should be set as "selected"
+        array_hatched[currentIndex] = p.isHatched();
+        array_readyToHatch[currentIndex] = p.isReadyToHatch();
+        array_currentSteps[currentIndex] = p.getCurrentSteps();
+        array_stepsNeeded[currentIndex] = p.getStepsNeeded();
+        array_eggSprite[currentIndex] = p.getEggSprite();
+        array_hatchedSprite[currentIndex] = p.getHatchedSprite();
+        array_cost[currentIndex] = p.getCost();
+        array_type[currentIndex] = p.getType().getStepsNeeded();
+        array_pokemonIndex[currentIndex] = currentIndex;
+
         if(currentIndex == 0) {
-            indexOfSelectedPokemon = 0;
             currentPokemon = p;
+            currentPokemon.setCurrent(true);
         }
 
         if(currentIndex < MAX_SIZE) {
             list[currentIndex] = p;
             currentIndex = currentIndex + 1;
         }
-
-        return;
     }
 
     public void updateCurrentPokemon(Pokemon p) {
@@ -79,5 +85,8 @@ public class PokemonList {
         return list[i];
     }
 
+    public boolean isLoaded() {
+        return loaded;
+    }
 
 }

@@ -4,17 +4,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "9",
                         "endColumns": "12",
                         "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

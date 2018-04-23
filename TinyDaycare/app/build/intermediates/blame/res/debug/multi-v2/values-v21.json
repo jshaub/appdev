@@ -4,7 +4,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\334a764e630e40e8699700458c3eb715\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3b696a8cae0c2263fc42024a275de364\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\07deb3260f596d10816d237868989769\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\cb3cd8b43adf59bd0e8f26bd7ee3d408\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247,259,260,261,264,267,268,271,272",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,7 +61,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5",
                         "startColumns": "4,4",

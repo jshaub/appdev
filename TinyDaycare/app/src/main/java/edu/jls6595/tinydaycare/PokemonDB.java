@@ -1,9 +1,11 @@
 package edu.jls6595.tinydaycare;
 
+import android.content.ContentValues;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.AsyncTask;
+import android.util.Log;
 
 public class PokemonDB extends SQLiteOpenHelper {
 
@@ -14,11 +16,19 @@ public class PokemonDB extends SQLiteOpenHelper {
     public static final int DB_VERSION = 2;
     public static final String DB_NAME = "pokemon.db";
     private static final String CREATE_TABLES =
-            "CREATE TABLE adopted (" +
-                    "id INTEGER PRIMARY KEY, " +
-                    "type INTEGER CHECK(type >= 0 and type <=2));";
+            "CREATE TABLE pokemon (" +
+                    "id INTEGER PRIMARY KEY," +
+                    "current INTEGER NOT NULL," +
+                    "hatched INTEGER NOT NULL," +
+                    "readyToHatch INTEGER NOT NULL," +
+                    "currentSteps INTEGER NOT NULL," +
+                    "eggSprite INTEGER NOT NULL," +
+                    "hatchedSprite INTEGER NOT NULL," +
+                    "type TEXT NOT NULL," +
+                    "cost INTEGER NOT NULL);";
+
     private static final String DROP_TABLES =
-            "DROP TABLE IF EXISTS creatures;";
+            "DROP TABLE IF EXISTS pokemon;";
 
     private static PokemonDB db;
 
@@ -36,6 +46,7 @@ public class PokemonDB extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
+        Log.d("PokemonDB", "creating table");
         sqLiteDatabase.execSQL(CREATE_TABLES);
     }
 
@@ -52,11 +63,6 @@ public class PokemonDB extends SQLiteOpenHelper {
 
     public void getDatabase(OnDBReadyListener listener) {
         new OpenDBAsyncTask().execute(listener);
-    }
-
-    public boolean addPokemonToDB(Pokemon c) {
-        // TODO: Implement code to add Pokemon and relevent data to the database for future use
-        return true;
     }
 
     private static class OpenDBAsyncTask extends AsyncTask<OnDBReadyListener, Void, SQLiteDatabase> {

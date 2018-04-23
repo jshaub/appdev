@@ -1,6 +1,8 @@
 package edu.jls6595.tinydaycare;
 
+import android.content.ContentValues;
 import android.content.Intent;
+import android.database.DatabaseUtils;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -8,20 +10,23 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
+import static edu.jls6595.tinydaycare.Pokemon.*;
 import static edu.jls6595.tinydaycare.Pokemon.PokemonType.LARGE;
 import static edu.jls6595.tinydaycare.Pokemon.PokemonType.MEDIUM;
 import static edu.jls6595.tinydaycare.Pokemon.PokemonType.SMALL;
 
 public class adopt_screen extends AppCompatActivity {
 
+    TextView careCoins;
     PokemonDB pokemonDB;
     SQLiteDatabase database;
     private PokemonList pList;
+    private long numAdopted;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -65,20 +70,28 @@ public class adopt_screen extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        pList = pList.getInstance();
-        pokemonDB = PokemonDB.getInstance(this);
 
-        pokemonDB.getDatabase(new PokemonDB.OnDBReadyListener() {
+        // Get database instance
+        PokemonDB.getInstance(this).getDatabase(new PokemonDB.OnDBReadyListener() {
             @Override
             public void onDBReady(SQLiteDatabase db) {
                 database = db;
+                Log.d("adopt", "database ready");
             }
         });
+
+        pList = pList.getInstance();
+
+        // Set CareCoins
+        careCoins = findViewById(R.id.user_carecoins);
+        careCoins.setText(String.valueOf(User.getInstance().getNumCareCoins()));
     }
 
     /* Create a new Pokemon object and add it to the database */
     // TODO: Implement check to see if user has enough CareCoins
     public void eggClick(View view) {
+        ContentValues values = new ContentValues();
+        Pokemon pokemon = null;
         int eggType = view.getId();
 
         if (pList.getCurrentIndex() == pList.getMaxSize()) {
@@ -88,23 +101,62 @@ public class adopt_screen extends AppCompatActivity {
 
         switch(eggType) {
             case R.id.smallEgg:
+                if(User.getInstance().getNumCareCoins() < PokemonCost.COST_SMALL.getCost()) {
+                    displayToast(R.string.careCoins_error);
+                    return;
+                }
+
                 Log.d("eggType", "small egg clicked");
-                new Pokemon(SMALL, pokemonDB, this);
-                Toast.makeText(this, "You adopted a small-sized Pokemon!", Toast.LENGTH_SHORT).show();
+                pokemon = new Pokemon(SMALL, pokemonDB);
+                displayToast(R.string.toast_adopt_small);
                 break;
             case R.id.mediumEgg:
+                if(User.getInstance().getNumCareCoins() < PokemonCost.COST_MEDIUM.getCost()) {
+                    displayToast(R.string.careCoins_error);
+                    return;
+                }
+
                 Log.d("eggType", "medium egg clicked");
-                new Pokemon(MEDIUM, pokemonDB, this);
-                Toast.makeText(this, "You adopted a medium-sized Pokemon!", Toast.LENGTH_SHORT).show();
+                pokemon = new Pokemon(MEDIUM, pokemonDB);
+                displayToast(R.string.toast_adopt_medium);
                 break;
             case R.id.largeEgg:
+                if(User.getInstance().getNumCareCoins() < PokemonCost.COST_LARGE.getCost()) {
+                    displayToast(R.string.careCoins_error);
+                    return;
+                }
+
                 Log.d("eggType", "large egg clicked");
-                new Pokemon(LARGE, pokemonDB, this);
-                Toast.makeText(this, "You adopted a large-sized Pokemon!", Toast.LENGTH_SHORT).show();
+                pokemon = new Pokemon(LARGE, pokemonDB);
+                displayToast(R.string.toast_adopt_large);
                 break;
         }
+
+        values.put("id", pokemon.getId());
+        values.put("current", pokemon.getCurrent());
+        values.put("hatched", pokemon.getHatchedInt());
+        values.put("readyToHatch", pokemon.getReadyToHatchInt());
+        values.put("currentSteps", pokemon.getCurrentSteps());
+        values.put("eggSprite", pokemon.getEggSprite());
+        values.put("hatchedSprite", pokemon.getHatchedSprite());
+        values.put("type", pokemon.getTypeString());
+        values.put("cost", pokemon.getCost());
+        database.insert("pokemon", null, values);
+
+        User.getInstance().removeCareCoins(pokemon.getCost());
+        careCoins.setText(String.valueOf(User.getInstance().getNumCareCoins()));
 
         return;
     }
 
+    private void displayToast(int toastStringId) {
+        Log.d("adopt", "Displaying toast");
+        int toastLength = Toast.LENGTH_SHORT;
+        int gravity = Gravity.BOTTOM;
+        int xOff = 0, yOff = 225;
+
+        Toast toast = Toast.makeText(this, toastStringId, toastLength);
+        toast.setGravity(gravity, xOff, yOff);
+        toast.show();
+    }
 }

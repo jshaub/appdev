@@ -4,7 +4,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -19,7 +19,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-te\\values-te.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v18_values-v18.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -49,7 +49,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -64,7 +64,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -79,7 +79,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-si_values-si.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-si\\values-si.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-si\\values-si.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -94,7 +94,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -109,7 +109,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -124,7 +124,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -139,7 +139,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -154,7 +154,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -169,7 +169,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-bn_values-bn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -184,7 +184,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -194,7 +194,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\334a764e630e40e8699700458c3eb715\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3b696a8cae0c2263fc42024a275de364\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -216,7 +216,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -231,7 +231,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sv\\values-sv.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -246,7 +246,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -261,7 +261,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -276,7 +276,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -291,7 +291,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -306,7 +306,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -322,7 +322,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ml\\values-ml.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -337,7 +337,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -352,7 +352,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -367,7 +367,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -382,7 +382,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -397,7 +397,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -412,7 +412,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",
@@ -428,7 +428,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -443,7 +443,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-fa\\values-fa.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-fa\\values-fa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -458,7 +458,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sq\\values-sq.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -473,7 +473,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -488,7 +488,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -503,7 +503,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -518,7 +518,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -533,7 +533,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -548,7 +548,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -563,7 +563,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -578,7 +578,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-kk\\values-kk.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-kk\\values-kk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -593,7 +593,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -608,7 +608,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-is\\values-is.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-is\\values-is.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -623,7 +623,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -639,7 +639,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\334a764e630e40e8699700458c3eb715\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3b696a8cae0c2263fc42024a275de364\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -658,7 +658,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\07deb3260f596d10816d237868989769\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\cb3cd8b43adf59bd0e8f26bd7ee3d408\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -677,7 +677,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247,259,260,261,264,267,268,271,272",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -696,7 +696,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5",
                         "startColumns": "4,4",
@@ -720,7 +720,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v23_values-v23.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -736,7 +736,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -751,7 +751,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -766,7 +766,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -781,7 +781,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -796,7 +796,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -811,7 +811,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-es\\values-es.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -826,7 +826,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ko\\values-ko.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -841,7 +841,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -856,7 +856,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -871,7 +871,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-my\\values-my.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-my\\values-my.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -886,7 +886,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -905,7 +905,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\07deb3260f596d10816d237868989769\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\cb3cd8b43adf59bd0e8f26bd7ee3d408\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -920,7 +920,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -935,7 +935,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -950,49 +950,43 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\334a764e630e40e8699700458c3eb715\\res\\values\\values.xml",
+                    "source": "C:\\Projects\\appdev\\TinyDaycare\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,348,414,536,597,663",
-                        "endColumns": "88,65,121,60,65,66",
-                        "endOffsets": "139,409,531,592,658,725"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
-                        "startLines": "153,2108,2110,2111,2116,2118",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "8429,153020,153196,153318,153580,153775",
-                        "endColumns": "88,65,121,60,65,66",
-                        "endOffsets": "8513,153081,153313,153374,153641,153837"
+                        "startLines": "828",
+                        "startColumns": "4",
+                        "startOffsets": "68504",
+                        "endLines": "836",
+                        "endColumns": "12",
+                        "endOffsets": "68936"
                     }
                 },
                 {
-                    "source": "C:\\Projects\\appdev\\TinyDaycare\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\cb3cd8b43adf59bd0e8f26bd7ee3d408\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "11",
-                        "endColumns": "12",
-                        "endOffsets": "532"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "824",
-                        "startColumns": "4",
-                        "startOffsets": "68173",
-                        "endLines": "832",
-                        "endColumns": "12",
-                        "endOffsets": "68640"
+                        "startLines": "151,152,614,615,616,617,618,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,695,696,704,705,713,714,717,734,797,2105,2106,2111,2114,2119,2303,2304",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8297,8366,54225,54295,54363,54435,54505,58118,58179,58240,58302,58366,58428,58489,58557,58657,58717,58783,58856,58925,58982,59034,59549,59621,60042,60077,60444,60478,60605,61534,66399,151527,151644,151911,152204,152471,166166,166238",
+                        "endLines": "151,152,614,615,616,617,618,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,695,696,704,705,713,714,717,734,797,2105,2109,2111,2117,2119,2303,2304",
+                        "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "8361,8424,54290,54358,54430,54500,54561,58174,58235,58297,58361,58423,58484,58552,58652,58712,58778,58851,58920,58977,59029,59091,59616,59692,60072,60107,60473,60508,60635,61599,66465,151639,151840,152016,152400,152595,166233,166300"
                     }
                 },
                 {
                     "source": "C:\\Projects\\appdev\\TinyDaycare\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "90,149",
-                        "endColumns": "57,55",
-                        "endOffsets": "143,200"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
                         "startLines": "612,613",
@@ -1003,49 +997,11 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values\\values.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\transition-26.1.0.aar\\ccd02c8df0faa3c1f0d25e78d26d2905\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,241,244,245,255,258,259,262,265,268,272,277,280,285,288,293,297,301,303,307,314,318,321,330,336,339,348,352",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,174,255,319,385,455,525,595,665,11320,11374,11453,11526,11591,11654,11725,11796,11858,11927,11993,12060,12127,12183,12234,12287,12339,12393,12456,12515,12577,12636,12696,12759,12834,12906,12977,13033,13104,13161,13218,13284,13348,13419,13476,13529,13592,13644,13702,13749,13794,13842,13908,13970,14033,14090,14147,14292,14413,14500,14591,14892,15058,15213,15315,15602,15760,15857,16448,16649,16741,16920,17088,17263,17516,17807,17937,18295,18437,18807,18967,19121,19221,19462,19897,20104,20263,20828,21189,21318,21985,22165",
-                        "endLines": "2,3,4,5,6,7,8,9,10,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,240,243,244,254,257,258,261,264,267,271,276,279,284,287,292,296,300,302,306,313,317,320,329,335,338,347,351,360",
-                        "endColumns": "73,80,63,65,69,69,69,69,66,53,78,72,64,62,70,70,61,68,65,66,66,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,46,44,47,65,61,62,56,56,144,120,86,90,300,165,154,101,12,12,96,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "169,250,314,380,450,520,590,660,727,11369,11448,11521,11586,11649,11720,11791,11853,11922,11988,12055,12122,12178,12229,12282,12334,12388,12451,12510,12572,12631,12691,12754,12829,12901,12972,13028,13099,13156,13213,13279,13343,13414,13471,13524,13587,13639,13697,13744,13789,13837,13903,13965,14028,14085,14142,14287,14408,14495,14586,14887,15053,15208,15310,15597,15755,15852,16443,16644,16736,16915,17083,17258,17511,17802,17932,18290,18432,18802,18962,19116,19216,19457,19892,20099,20258,20823,21184,21313,21980,22160,22869"
-                    },
-                    "to": {
-                        "startLines": "121,122,123,124,125,126,127,128,129,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,715,716,724,727,728,731,732,733,767,772,774,784,785,786,787,788,820,1142,1868,1869,2119,2122,2123,2126,2129,2132,2136,2176,2179,2184,2187,2192,2196,2303,2305,2309,2316,2320,2323,2332,2338,2341,2350,2354",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "6378,6452,6533,6597,6663,6733,6803,6873,6943,54566,54620,54699,54772,54837,54900,54971,55042,55104,55173,55239,55306,55373,55429,55480,55533,55585,55639,55702,55761,55823,55882,55942,56005,56080,56152,56223,56279,56350,56407,56464,56530,56594,56665,56722,56775,56838,56890,60513,60560,60938,61112,61178,61357,61420,61477,63892,64251,64427,65093,65184,65485,65651,65806,67886,89161,134460,134557,153842,154043,154135,154314,154482,154657,154910,157785,157915,158273,158415,158785,158945,167480,167580,167821,168256,168463,168622,169187,169548,169677,170344,170524",
-                        "endLines": "121,122,123,124,125,126,127,128,129,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,715,716,724,727,728,731,732,733,767,772,774,784,785,786,787,788,823,1144,1868,1878,2121,2122,2125,2128,2131,2135,2140,2178,2183,2186,2191,2195,2199,2304,2308,2315,2319,2322,2331,2337,2340,2349,2353,2362",
-                        "endColumns": "73,80,63,65,69,69,69,69,66,53,78,72,64,62,70,70,61,68,65,66,66,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,46,44,47,65,61,62,56,56,144,120,86,90,300,165,154,101,12,12,96,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "6447,6528,6592,6658,6728,6798,6868,6938,7005,54615,54694,54767,54832,54895,54966,55037,55099,55168,55234,55301,55368,55424,55475,55528,55580,55634,55697,55756,55818,55877,55937,56000,56075,56147,56218,56274,56345,56402,56459,56525,56589,56660,56717,56770,56833,56885,56943,60555,60600,60981,61173,61235,61415,61472,61529,64032,64367,64509,65179,65480,65646,65801,65903,68168,89314,134552,135143,154038,154130,154309,154477,154652,154905,155196,157910,158268,158410,158780,158940,159094,167575,167816,168251,168458,168617,169182,169543,169672,170339,170519,171228"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.1.0.aar\\471f7be50315d954b644b71f67b2f08a\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "685,744,792,848,923,999,1071",
-                        "endColumns": "58,47,55,74,75,71,65",
-                        "endOffsets": "739,787,843,918,994,1066,1132"
-                    },
-                    "to": {
-                        "startLines": "659,660,661,669,670,671,703",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "57121,57180,57228,57895,57970,58046,59976",
-                        "endColumns": "58,47,55,74,75,71,65",
-                        "endOffsets": "57175,57223,57279,57965,58041,58113,60037"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\transition-26.1.0.aar\\074fce0918e0e0002903ea6a3d8ca22b\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,95,138,185,240,285,339,391,440,501",
-                        "endColumns": "39,42,46,54,44,53,51,48,60,49",
-                        "endOffsets": "90,133,180,235,280,334,386,435,496,546"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "701,706,709,710,711,718,719,720,721,722",
@@ -1056,49 +1012,91 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values\\values.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,393,394,398,402,406,411,417,424,428,432,437,441,445,449,453,457,461,465,469,473,477,481,485,490,494,497,501,505,509,513,517,521,524,528,532,536,540,544,545,546,547,550,553,556,559,563,564,565,566,567,570,572,574,576,581,582,586,592,596,597,599,610,611,615,621,625,626,627,631,658,662,663,667,695,861,883,1049,1071,1098,1105,1110,1124,1146,1151,1156,1166,1175,1184,1188,1195,1203,1210,1211,1220,1223,1226,1230,1234,1238,1241,1242,1246,1250,1260,1265,1272,1278,1279,1282,1286,1291,1293,1295,1298,1301,1303,1307,1310,1317,1320,1323,1327,1329,1333,1335,1341,1343,1347,1355,1363,1375,1381,1390,1393,1404,1407,1412,1413,1418,1460,1503,1504,1514,1523,1524,1526,1530,1533,1536,1539,1542,1546,1549,1552,1555,1559,1562,1566,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1595,1596,1597,1598,1599,1603,1604,1605,1606,1608,1610,1611,1612,1613,1614,1615,1616,1617,1619,1620,1622,1623,1625,1627,1628,1630,1631,1632,1633,1634,1635,1637,1638,1639,1640,1641,1642,1644,1646,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1662,1663,1664,1665,1666,1667,1669,1673,1677,1678,1679,1680,1681,1682,1683,1684,1686,1688,1690,1692,1694,1695,1696,1697,1699,1701,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714,1717,1718,1719,1720,1722,1724,1725,1727,1728,1730,1732,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1745,1747,1748,1749,1750,1752,1753,1754,1755,1756,1758,1760,1762,1764,1765,1766,1767,1768,1769,1770,1771,1772,1773,1774,1775,1776,1777",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,110,155,204,245,300,358,420,488,566,647,708,783,859,936,1014,1099,1181,1257,1333,1410,1488,1594,1700,1779,1859,1916,1974,2048,2123,2188,2254,2309,2381,2454,2521,2589,2648,2707,2766,2825,2884,2938,2992,3045,3099,3153,3207,3261,3335,3414,3487,3561,3632,3704,3776,3849,3906,3964,4037,4111,4185,4260,4332,4405,4475,4546,4606,26813,26882,26951,27021,27095,27171,27235,27312,27388,27465,27529,27594,27663,27740,27815,27884,27952,28029,28095,28192,28257,28326,28425,28496,28555,28613,28670,28729,28800,28872,28944,29016,29088,29155,29223,29291,29350,29413,29477,29567,29658,29718,29784,29851,29917,29987,30051,30104,30217,30275,30338,30403,30468,30543,30616,30688,30737,30798,30859,30920,30982,31046,31110,31174,31239,31302,31362,31423,31489,31548,31608,31670,31741,31801,31869,31955,32042,32132,32219,32307,32389,32472,32562,32653,32705,32763,32808,32874,32938,32995,33052,33106,33163,33211,33260,33311,33345,33392,33441,33487,33519,33583,33645,33705,33762,33836,33914,34007,34077,34155,34209,34279,34364,34412,34458,34529,34607,34685,34757,34831,34905,34979,35059,35132,35201,35273,35350,35402,35475,35549,35618,35693,35767,35841,35930,36000,36053,36131,36221,36309,36405,36495,36996,37085,37332,37613,37857,38142,38535,39012,39234,39456,39724,39951,40181,40411,40641,40871,41098,41337,41563,41808,42038,42286,42505,42788,42996,43127,43354,43600,43825,44072,44293,44538,44658,44934,45235,45559,45850,46164,46301,46432,46537,46779,46946,47150,47358,47629,47741,47853,47958,48075,48289,48435,48575,48661,49009,49097,49327,49745,49978,50060,50158,50775,50875,51111,51535,51774,51868,51957,52194,54246,54488,54590,54827,57011,67548,68799,79433,80696,82188,82724,83054,84115,85380,85636,85872,86419,86913,87518,87716,88296,88860,89235,89353,89891,90048,90244,90517,90773,90943,91084,91148,91430,91716,92392,92656,92994,93347,93441,93627,93933,94195,94320,94447,94686,94897,95016,95209,95386,95841,96022,96144,96403,96516,96703,96805,97249,97373,97648,98156,98652,99529,99823,100393,100542,101274,101446,101782,101874,102152,105338,108667,108729,109359,109973,110059,110172,110401,110561,110713,110884,111051,111294,111464,111637,111808,112082,112281,112486,112816,112900,112996,113092,113190,113290,113392,113494,113596,113698,113800,113900,113996,114108,114237,114360,114491,114622,114720,114834,114928,115048,115252,115321,115437,115565,115629,115833,115902,116034,116104,116244,116378,116474,116586,116686,116802,116898,117010,117110,117250,117386,117550,117680,117838,117988,118129,118273,118408,118520,118670,118798,118926,119062,119194,119324,119454,119566,119706,119852,119996,120134,120200,120290,120366,120470,120560,120662,120770,120878,120978,121058,121150,121248,121358,121436,121542,121634,121738,121848,121970,122133,122290,122370,122470,122560,122670,122764,122870,122962,123062,123174,123288,123404,123520,123614,123728,123840,123942,124062,124184,124266,124370,124490,124616,124714,124808,124896,125008,125124,125246,125358,125533,125649,125735,125827,125939,126063,126130,126256,126324,126452,126596,126724,126793,126888,127003,127116,127215,127324,127435,127546,127647,127752,127852,127982,128073,128196,128290,128402,128488,128592,128688,128776,128894,128998,129102,129228,129316,129424,129524,129614,129724,129808,129910,129994,130048,130112,130218,130328,130412",
-                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,392,393,397,401,405,410,416,423,427,431,436,440,444,448,452,456,460,464,468,472,476,480,484,489,493,496,500,504,508,512,516,520,523,527,531,535,539,543,544,545,546,549,552,555,558,562,563,564,565,566,569,571,573,575,580,581,585,591,595,596,598,609,610,614,620,624,625,626,630,657,661,662,666,694,860,882,1048,1070,1097,1104,1109,1123,1145,1150,1155,1165,1174,1183,1187,1194,1202,1209,1210,1219,1222,1225,1229,1233,1237,1240,1241,1245,1249,1259,1264,1271,1277,1278,1281,1285,1290,1292,1294,1297,1300,1302,1306,1309,1316,1319,1322,1326,1328,1332,1334,1340,1342,1346,1354,1362,1374,1380,1389,1392,1403,1406,1411,1412,1417,1459,1502,1503,1513,1522,1523,1525,1529,1532,1535,1538,1541,1545,1548,1551,1554,1558,1561,1565,1569,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1594,1595,1596,1597,1598,1602,1603,1604,1605,1607,1609,1610,1611,1612,1613,1614,1615,1616,1618,1619,1621,1622,1624,1626,1627,1629,1630,1631,1632,1633,1634,1636,1637,1638,1639,1640,1641,1643,1645,1647,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1661,1662,1663,1664,1665,1666,1668,1672,1676,1677,1678,1679,1680,1681,1682,1683,1685,1687,1689,1691,1693,1694,1695,1696,1698,1700,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1716,1717,1718,1719,1721,1723,1724,1726,1727,1729,1731,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1746,1747,1748,1749,1751,1752,1753,1754,1755,1757,1759,1761,1763,1764,1765,1766,1767,1768,1769,1770,1771,1772,1773,1774,1775,1776,1777",
-                        "endColumns": "54,44,48,40,54,57,61,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,54,71,72,66,67,58,58,58,58,58,53,53,52,53,53,53,53,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,59,60,68,68,69,73,75,63,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,70,58,57,56,58,70,71,71,71,71,66,67,67,58,62,63,89,90,59,65,66,65,69,63,52,112,57,62,64,64,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,65,58,59,61,70,59,67,85,86,89,86,87,81,82,89,90,51,57,44,65,63,56,56,53,56,47,48,50,33,46,48,45,31,63,61,59,56,73,77,92,69,77,53,69,84,47,45,70,77,77,71,73,73,73,79,72,68,71,76,51,72,73,68,74,73,73,88,69,52,77,89,87,95,89,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,12,12,111,111,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,101,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,91,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,130,130,97,113,93,119,12,68,115,127,63,12,68,131,69,12,12,95,111,99,115,95,111,99,12,135,12,129,12,12,140,12,134,111,149,127,127,12,131,129,129,111,139,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,93,105,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,99,12,90,122,93,12,85,103,95,87,12,12,12,12,87,107,99,89,109,83,101,83,53,63,105,109,83,119",
-                        "endOffsets": "105,150,199,240,295,353,415,483,561,642,703,778,854,931,1009,1094,1176,1252,1328,1405,1483,1589,1695,1774,1854,1911,1969,2043,2118,2183,2249,2304,2376,2449,2516,2584,2643,2702,2761,2820,2879,2933,2987,3040,3094,3148,3202,3256,3330,3409,3482,3556,3627,3699,3771,3844,3901,3959,4032,4106,4180,4255,4327,4400,4470,4541,4601,4662,26877,26946,27016,27090,27166,27230,27307,27383,27460,27524,27589,27658,27735,27810,27879,27947,28024,28090,28187,28252,28321,28420,28491,28550,28608,28665,28724,28795,28867,28939,29011,29083,29150,29218,29286,29345,29408,29472,29562,29653,29713,29779,29846,29912,29982,30046,30099,30212,30270,30333,30398,30463,30538,30611,30683,30732,30793,30854,30915,30977,31041,31105,31169,31234,31297,31357,31418,31484,31543,31603,31665,31736,31796,31864,31950,32037,32127,32214,32302,32384,32467,32557,32648,32700,32758,32803,32869,32933,32990,33047,33101,33158,33206,33255,33306,33340,33387,33436,33482,33514,33578,33640,33700,33757,33831,33909,34002,34072,34150,34204,34274,34359,34407,34453,34524,34602,34680,34752,34826,34900,34974,35054,35127,35196,35268,35345,35397,35470,35544,35613,35688,35762,35836,35925,35995,36048,36126,36216,36304,36400,36490,36991,37080,37327,37608,37852,38137,38530,39007,39229,39451,39719,39946,40176,40406,40636,40866,41093,41332,41558,41803,42033,42281,42500,42783,42991,43122,43349,43595,43820,44067,44288,44533,44653,44929,45230,45554,45845,46159,46296,46427,46532,46774,46941,47145,47353,47624,47736,47848,47953,48070,48284,48430,48570,48656,49004,49092,49322,49740,49973,50055,50153,50770,50870,51106,51530,51769,51863,51952,52189,54241,54483,54585,54822,57006,67543,68794,79428,80691,82183,82719,83049,84110,85375,85631,85867,86414,86908,87513,87711,88291,88855,89230,89348,89886,90043,90239,90512,90768,90938,91079,91143,91425,91711,92387,92651,92989,93342,93436,93622,93928,94190,94315,94442,94681,94892,95011,95204,95381,95836,96017,96139,96398,96511,96698,96800,97244,97368,97643,98151,98647,99524,99818,100388,100537,101269,101441,101777,101869,102147,105333,108662,108724,109354,109968,110054,110167,110396,110556,110708,110879,111046,111289,111459,111632,111803,112077,112276,112481,112811,112895,112991,113087,113185,113285,113387,113489,113591,113693,113795,113895,113991,114103,114232,114355,114486,114617,114715,114829,114923,115043,115247,115316,115432,115560,115624,115828,115897,116029,116099,116239,116373,116469,116581,116681,116797,116893,117005,117105,117245,117381,117545,117675,117833,117983,118124,118268,118403,118515,118665,118793,118921,119057,119189,119319,119449,119561,119701,119847,119991,120129,120195,120285,120361,120465,120555,120657,120765,120873,120973,121053,121145,121243,121353,121431,121537,121629,121733,121843,121965,122128,122285,122365,122465,122555,122665,122759,122865,122957,123057,123169,123283,123399,123515,123609,123723,123835,123937,124057,124179,124261,124365,124485,124611,124709,124803,124891,125003,125119,125241,125353,125528,125644,125730,125822,125934,126058,126125,126251,126319,126447,126591,126719,126788,126883,126998,127111,127210,127319,127430,127541,127642,127747,127847,127977,128068,128191,128285,128397,128483,128587,128683,128771,128889,128993,129097,129223,129311,129419,129519,129609,129719,129803,129905,129989,130043,130107,130213,130323,130407,130527"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,657,658,662,663,664,665,666,667,668,687,688,689,690,691,692,693,694,697,698,699,700,702,707,708,712,723,725,726,729,730,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,791,815,816,817,818,819,833,840,841,845,849,853,858,864,871,875,879,884,888,892,896,900,904,908,912,916,920,924,928,932,937,941,944,948,952,956,960,964,968,971,975,979,983,987,991,992,993,994,997,1000,1003,1006,1010,1011,1012,1013,1014,1017,1019,1021,1023,1028,1029,1033,1039,1043,1044,1046,1057,1058,1062,1068,1072,1073,1074,1078,1105,1109,1110,1114,1145,1311,1333,1499,1521,1548,1555,1560,1574,1596,1601,1606,1616,1625,1634,1638,1645,1653,1660,1661,1670,1673,1676,1680,1684,1688,1691,1692,1696,1700,1710,1715,1722,1728,1729,1732,1736,1741,1743,1745,1748,1751,1753,1757,1760,1767,1770,1773,1777,1779,1783,1785,1791,1793,1797,1805,1813,1825,1831,1840,1843,1854,1857,1862,1863,1879,1921,1964,1965,1975,1984,1985,1987,1991,1994,1997,2000,2003,2007,2010,2013,2016,2020,2023,2027,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2052,2056,2057,2058,2059,2060,2064,2065,2066,2067,2069,2071,2072,2073,2074,2075,2076,2077,2078,2080,2081,2083,2084,2086,2088,2089,2091,2092,2093,2094,2095,2096,2098,2099,2100,2101,2102,2141,2143,2145,2147,2148,2149,2150,2151,2152,2153,2154,2155,2156,2157,2158,2159,2161,2162,2163,2164,2165,2166,2168,2172,2200,2201,2202,2203,2204,2205,2206,2207,2209,2211,2213,2215,2217,2218,2219,2220,2222,2224,2226,2227,2228,2229,2230,2231,2232,2233,2234,2235,2236,2237,2240,2241,2242,2243,2245,2247,2248,2250,2251,2253,2255,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2270,2271,2272,2273,2275,2276,2277,2278,2279,2281,2283,2285,2287,2288,2289,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300",
+                        "startLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,657,658,662,663,664,665,666,667,668,687,688,689,690,691,692,693,694,697,698,699,700,702,707,708,712,723,725,726,729,730,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,792,819,820,821,822,823,837,844,845,849,853,857,862,868,875,879,883,888,892,896,900,904,908,912,916,920,924,928,932,936,941,945,948,952,956,960,964,968,972,975,979,983,987,991,995,996,997,998,1001,1004,1007,1010,1014,1015,1016,1017,1018,1021,1023,1025,1027,1032,1033,1037,1043,1047,1048,1050,1061,1062,1066,1072,1076,1077,1078,1082,1109,1113,1114,1118,1149,1314,1336,1501,1523,1550,1557,1562,1576,1598,1603,1608,1618,1627,1636,1640,1647,1655,1662,1663,1672,1675,1678,1682,1686,1690,1693,1694,1698,1702,1712,1717,1724,1730,1731,1734,1738,1743,1745,1747,1750,1753,1755,1759,1762,1769,1772,1775,1779,1781,1785,1787,1793,1795,1799,1807,1815,1827,1833,1842,1845,1856,1859,1864,1865,1881,1923,1966,1967,1977,1986,1987,1989,1993,1996,1999,2002,2005,2009,2012,2015,2018,2022,2025,2029,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2052,2053,2054,2058,2059,2060,2061,2062,2066,2067,2068,2069,2071,2073,2074,2075,2076,2077,2078,2079,2080,2082,2083,2085,2086,2088,2090,2091,2093,2094,2095,2096,2097,2098,2100,2101,2102,2103,2104,2143,2145,2147,2149,2150,2151,2152,2153,2154,2155,2156,2157,2158,2159,2160,2161,2163,2164,2165,2166,2167,2168,2170,2174,2202,2203,2204,2205,2206,2207,2208,2209,2211,2213,2215,2217,2219,2220,2221,2222,2224,2226,2228,2229,2230,2231,2232,2233,2234,2235,2236,2237,2238,2239,2242,2243,2244,2245,2247,2249,2250,2252,2253,2255,2257,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2269,2270,2272,2273,2274,2275,2277,2278,2279,2280,2281,2283,2285,2287,2289,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300,2301,2302",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "152,207,252,4464,4505,4560,4618,4680,4748,4826,4907,4968,5043,5119,5196,5274,5359,5441,5517,5593,5670,5748,5854,5960,6039,6119,6176,7010,7084,7159,7224,7290,7345,7417,7490,7557,7625,7684,7743,7802,7861,7920,7974,8028,8081,8135,8189,8243,8518,8592,8671,8744,8818,8889,8961,9033,9106,9163,9221,9294,9368,9442,9517,9589,9662,9732,9803,9863,49055,49124,49193,49263,49337,49413,49477,49554,49630,49707,49771,49836,49905,49982,50057,50126,50194,50271,50337,50434,50499,50568,50667,50738,50797,50855,50912,50971,51042,51114,51186,51258,51330,51397,51465,51533,51592,51655,51719,51809,51900,51960,52026,52093,52159,52229,52293,52346,52459,52517,52580,52645,52710,52785,52858,52930,52979,53040,53101,53162,53224,53288,53352,53416,53481,53544,53604,53665,53731,53790,53850,53912,53983,54043,56948,57034,57284,57374,57461,57549,57631,57714,57804,59096,59148,59206,59251,59317,59381,59438,59495,59697,59754,59802,59851,59942,60155,60202,60398,60906,60986,61050,61240,61300,61604,61678,61756,61849,61919,61997,62051,62121,62206,62254,62300,62371,62449,62527,62599,62673,62747,62821,62901,62974,63043,63115,63192,63244,63317,63391,63460,63535,63609,63683,63772,66019,67444,67522,67612,67700,67796,68645,69146,69235,69482,69763,70007,70292,70685,71162,71384,71606,71874,72101,72331,72561,72791,73021,73248,73487,73713,73958,74188,74436,74655,74938,75146,75277,75504,75750,75975,76222,76443,76688,76808,77084,77385,77709,78000,78314,78451,78582,78687,78929,79096,79300,79508,79779,79891,80003,80108,80225,80439,80585,80725,80811,81159,81247,81477,81895,82128,82210,82308,82925,83025,83261,83685,83924,84018,84107,84344,86396,86638,86740,86977,89319,99856,101107,111741,113004,114496,115032,115362,116423,117688,117944,118180,118727,119221,119826,120024,120604,121168,121543,121661,122199,122356,122552,122825,123081,123251,123392,123456,123738,124024,124700,124964,125302,125655,125749,125935,126241,126503,126628,126755,126994,127205,127324,127517,127694,128149,128330,128452,128711,128824,129011,129113,129557,129681,129956,130464,130960,131837,132131,132701,132850,133582,133754,134090,134182,135148,138334,141663,141725,142355,142969,143055,143168,143397,143557,143709,143880,144047,144290,144460,144633,144804,145078,145277,145482,145812,145896,145992,146088,146186,146286,146388,146490,146592,146694,146796,146896,146992,147104,147233,147356,147487,147618,147716,147830,147924,148044,148248,148317,148433,148561,148625,148829,148898,149030,149100,149240,149374,149470,149582,149682,149798,149894,150006,150106,150246,150382,150546,150676,150834,150984,151125,151269,151404,151516,151666,151794,151922,152058,152190,152320,152450,152562,155201,155347,155491,155629,155695,155785,155861,155965,156055,156157,156265,156373,156473,156553,156645,156743,156853,156931,157037,157129,157233,157343,157465,157628,159099,159179,159279,159369,159479,159573,159679,159771,159871,159983,160097,160213,160329,160423,160537,160649,160751,160871,160993,161075,161179,161299,161425,161523,161617,161705,161817,161933,162055,162167,162342,162458,162544,162636,162748,162872,162939,163065,163133,163261,163405,163533,163602,163697,163812,163925,164024,164133,164244,164355,164456,164561,164661,164791,164882,165005,165099,165211,165297,165401,165497,165585,165703,165807,165911,166037,166125,166233,166333,166423,166533,166617,166719,166803,166857,166921,167027,167137,167221",
-                        "endLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,657,658,662,663,664,665,666,667,668,687,688,689,690,691,692,693,694,697,698,699,700,702,707,708,712,723,725,726,729,730,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,791,815,816,817,818,819,839,840,844,848,852,857,863,870,874,878,883,887,891,895,899,903,907,911,915,919,923,927,931,936,940,943,947,951,955,959,963,967,970,974,978,982,986,990,991,992,993,996,999,1002,1005,1009,1010,1011,1012,1013,1016,1018,1020,1022,1027,1028,1032,1038,1042,1043,1045,1056,1057,1061,1067,1071,1072,1073,1077,1104,1108,1109,1113,1141,1310,1332,1498,1520,1547,1554,1559,1573,1595,1600,1605,1615,1624,1633,1637,1644,1652,1659,1660,1669,1672,1675,1679,1683,1687,1690,1691,1695,1699,1709,1714,1721,1727,1728,1731,1735,1740,1742,1744,1747,1750,1752,1756,1759,1766,1769,1772,1776,1778,1782,1784,1790,1792,1796,1804,1812,1824,1830,1839,1842,1853,1856,1861,1862,1867,1920,1963,1964,1974,1983,1984,1986,1990,1993,1996,1999,2002,2006,2009,2012,2015,2019,2022,2026,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2055,2056,2057,2058,2059,2063,2064,2065,2066,2068,2070,2071,2072,2073,2074,2075,2076,2077,2079,2080,2082,2083,2085,2087,2088,2090,2091,2092,2093,2094,2095,2097,2098,2099,2100,2101,2102,2142,2144,2146,2147,2148,2149,2150,2151,2152,2153,2154,2155,2156,2157,2158,2160,2161,2162,2163,2164,2165,2167,2171,2175,2200,2201,2202,2203,2204,2205,2206,2208,2210,2212,2214,2216,2217,2218,2219,2221,2223,2225,2226,2227,2228,2229,2230,2231,2232,2233,2234,2235,2236,2239,2240,2241,2242,2244,2246,2247,2249,2250,2252,2254,2256,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2269,2270,2271,2272,2274,2275,2276,2277,2278,2280,2282,2284,2286,2287,2288,2289,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300",
+                        "startOffsets": "152,207,252,4464,4505,4560,4618,4680,4748,4826,4907,4968,5043,5119,5196,5274,5359,5441,5517,5593,5670,5748,5854,5960,6039,6119,6176,7010,7084,7159,7224,7290,7345,7417,7490,7557,7625,7684,7743,7802,7861,7920,7974,8028,8081,8135,8189,8243,8518,8592,8671,8744,8818,8889,8961,9033,9106,9163,9221,9294,9368,9442,9517,9589,9662,9732,9803,9863,49055,49124,49193,49263,49337,49413,49477,49554,49630,49707,49771,49836,49905,49982,50057,50126,50194,50271,50337,50434,50499,50568,50667,50738,50797,50855,50912,50971,51042,51114,51186,51258,51330,51397,51465,51533,51592,51655,51719,51809,51900,51960,52026,52093,52159,52229,52293,52346,52459,52517,52580,52645,52710,52785,52858,52930,52979,53040,53101,53162,53224,53288,53352,53416,53481,53544,53604,53665,53731,53790,53850,53912,53983,54043,56948,57034,57284,57374,57461,57549,57631,57714,57804,59096,59148,59206,59251,59317,59381,59438,59495,59697,59754,59802,59851,59942,60155,60202,60398,60906,60986,61050,61240,61300,61604,61678,61756,61849,61919,61997,62051,62121,62206,62254,62300,62371,62449,62527,62599,62673,62747,62821,62901,62974,63043,63115,63192,63244,63317,63391,63460,63535,63609,63683,63772,66105,67775,67853,67943,68031,68127,68941,69442,69531,69778,70059,70303,70588,70981,71458,71680,71902,72170,72397,72627,72857,73087,73317,73544,73783,74009,74254,74484,74732,74951,75234,75442,75573,75800,76046,76271,76518,76739,76984,77104,77380,77681,78005,78296,78610,78747,78878,78983,79225,79392,79596,79804,80075,80187,80299,80404,80521,80735,80881,81021,81107,81455,81543,81773,82191,82424,82506,82604,83196,83296,83532,83956,84195,84289,84378,84615,86639,86881,86983,87220,89534,99479,100730,110772,112035,113527,114063,114393,115454,116719,116975,117211,117758,118252,118857,119055,119635,120199,120574,120692,121230,121387,121583,121856,122112,122282,122423,122487,122769,123055,123731,123995,124333,124686,124780,124966,125272,125534,125659,125786,126025,126236,126355,126548,126725,127180,127361,127483,127742,127855,128042,128144,128588,128712,128987,129495,129991,130868,131162,131732,131881,132613,132785,133121,133213,134179,137303,140570,140632,141210,141794,141880,141993,142222,142382,142534,142705,142872,143115,143285,143458,143629,143903,144102,144307,144637,144721,144817,144913,145011,145111,145213,145315,145417,145519,145621,145721,145817,145929,146058,146181,146312,146443,146541,146655,146749,146869,147073,147142,147258,147386,147450,147654,147723,147855,147925,148065,148199,148295,148407,148507,148623,148719,148831,148931,149071,149207,149371,149501,149659,149809,149950,150094,150229,150341,150491,150619,150747,150883,151015,151145,151275,151387,154026,154172,154316,154454,154520,154610,154686,154790,154880,154982,155090,155198,155298,155378,155470,155568,155678,155756,155862,155954,156058,156168,156290,156453,157924,158004,158104,158194,158304,158398,158504,158596,158696,158808,158922,159038,159154,159248,159362,159474,159576,159696,159818,159900,160004,160124,160250,160348,160442,160530,160642,160758,160880,160992,161167,161283,161369,161461,161573,161697,161764,161890,161958,162086,162230,162358,162427,162522,162637,162750,162849,162958,163069,163180,163281,163386,163486,163616,163707,163830,163924,164036,164122,164226,164322,164410,164528,164632,164736,164862,164950,165058,165158,165248,165358,165442,165544,165628,165682,165746,165852,165962,166046",
+                        "endLines": "3,4,5,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,657,658,662,663,664,665,666,667,668,687,688,689,690,691,692,693,694,697,698,699,700,702,707,708,712,723,725,726,729,730,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,792,819,820,821,822,823,843,844,848,852,856,861,867,874,878,882,887,891,895,899,903,907,911,915,919,923,927,931,935,940,944,947,951,955,959,963,967,971,974,978,982,986,990,994,995,996,997,1000,1003,1006,1009,1013,1014,1015,1016,1017,1020,1022,1024,1026,1031,1032,1036,1042,1046,1047,1049,1060,1061,1065,1071,1075,1076,1077,1081,1108,1112,1113,1117,1145,1313,1335,1500,1522,1549,1556,1561,1575,1597,1602,1607,1617,1626,1635,1639,1646,1654,1661,1662,1671,1674,1677,1681,1685,1689,1692,1693,1697,1701,1711,1716,1723,1729,1730,1733,1737,1742,1744,1746,1749,1752,1754,1758,1761,1768,1771,1774,1778,1780,1784,1786,1792,1794,1798,1806,1814,1826,1832,1841,1844,1855,1858,1863,1864,1869,1922,1965,1966,1976,1985,1986,1988,1992,1995,1998,2001,2004,2008,2011,2014,2017,2021,2024,2028,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2052,2053,2057,2058,2059,2060,2061,2065,2066,2067,2068,2070,2072,2073,2074,2075,2076,2077,2078,2079,2081,2082,2084,2085,2087,2089,2090,2092,2093,2094,2095,2096,2097,2099,2100,2101,2102,2103,2104,2144,2146,2148,2149,2150,2151,2152,2153,2154,2155,2156,2157,2158,2159,2160,2162,2163,2164,2165,2166,2167,2169,2173,2177,2202,2203,2204,2205,2206,2207,2208,2210,2212,2214,2216,2218,2219,2220,2221,2223,2225,2227,2228,2229,2230,2231,2232,2233,2234,2235,2236,2237,2238,2241,2242,2243,2244,2246,2248,2249,2251,2252,2254,2256,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2269,2271,2272,2273,2274,2276,2277,2278,2279,2280,2282,2284,2286,2288,2289,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300,2301,2302",
                         "endColumns": "54,44,48,40,54,57,61,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,54,71,72,66,67,58,58,58,58,58,53,53,52,53,53,53,53,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,59,60,68,68,69,73,75,63,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,70,58,57,56,58,70,71,71,71,71,66,67,67,58,62,63,89,90,59,65,66,65,69,63,52,112,57,62,64,64,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,65,58,59,61,70,59,67,85,86,89,86,87,81,82,89,90,51,57,44,65,63,56,56,53,56,47,48,50,33,46,48,45,31,63,61,59,56,73,77,92,69,77,53,69,84,47,45,70,77,77,71,73,73,73,79,72,68,71,76,51,72,73,68,74,73,73,88,69,52,77,89,87,95,89,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,12,12,111,111,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,101,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,91,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,130,130,97,113,93,119,12,68,115,127,63,12,68,131,69,12,12,95,111,99,115,95,111,99,12,135,12,129,12,12,140,12,134,111,149,127,127,12,131,129,129,111,139,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,93,105,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,99,12,90,122,93,12,85,103,95,87,12,12,12,12,87,107,99,89,109,83,101,83,53,63,105,109,83,119",
-                        "endOffsets": "202,247,296,4500,4555,4613,4675,4743,4821,4902,4963,5038,5114,5191,5269,5354,5436,5512,5588,5665,5743,5849,5955,6034,6114,6171,6229,7079,7154,7219,7285,7340,7412,7485,7552,7620,7679,7738,7797,7856,7915,7969,8023,8076,8130,8184,8238,8292,8587,8666,8739,8813,8884,8956,9028,9101,9158,9216,9289,9363,9437,9512,9584,9657,9727,9798,9858,9919,49119,49188,49258,49332,49408,49472,49549,49625,49702,49766,49831,49900,49977,50052,50121,50189,50266,50332,50429,50494,50563,50662,50733,50792,50850,50907,50966,51037,51109,51181,51253,51325,51392,51460,51528,51587,51650,51714,51804,51895,51955,52021,52088,52154,52224,52288,52341,52454,52512,52575,52640,52705,52780,52853,52925,52974,53035,53096,53157,53219,53283,53347,53411,53476,53539,53599,53660,53726,53785,53845,53907,53978,54038,54106,57029,57116,57369,57456,57544,57626,57709,57799,57890,59143,59201,59246,59312,59376,59433,59490,59544,59749,59797,59846,59897,59971,60197,60246,60439,60933,61045,61107,61295,61352,61673,61751,61844,61914,61992,62046,62116,62201,62249,62295,62366,62444,62522,62594,62668,62742,62816,62896,62969,63038,63110,63187,63239,63312,63386,63455,63530,63604,63678,63767,63837,66067,67517,67607,67695,67791,67881,69141,69230,69477,69758,70002,70287,70680,71157,71379,71601,71869,72096,72326,72556,72786,73016,73243,73482,73708,73953,74183,74431,74650,74933,75141,75272,75499,75745,75970,76217,76438,76683,76803,77079,77380,77704,77995,78309,78446,78577,78682,78924,79091,79295,79503,79774,79886,79998,80103,80220,80434,80580,80720,80806,81154,81242,81472,81890,82123,82205,82303,82920,83020,83256,83680,83919,84013,84102,84339,86391,86633,86735,86972,89156,99851,101102,111736,112999,114491,115027,115357,116418,117683,117939,118175,118722,119216,119821,120019,120599,121163,121538,121656,122194,122351,122547,122820,123076,123246,123387,123451,123733,124019,124695,124959,125297,125650,125744,125930,126236,126498,126623,126750,126989,127200,127319,127512,127689,128144,128325,128447,128706,128819,129006,129108,129552,129676,129951,130459,130955,131832,132126,132696,132845,133577,133749,134085,134177,134455,138329,141658,141720,142350,142964,143050,143163,143392,143552,143704,143875,144042,144285,144455,144628,144799,145073,145272,145477,145807,145891,145987,146083,146181,146281,146383,146485,146587,146689,146791,146891,146987,147099,147228,147351,147482,147613,147711,147825,147919,148039,148243,148312,148428,148556,148620,148824,148893,149025,149095,149235,149369,149465,149577,149677,149793,149889,150001,150101,150241,150377,150541,150671,150829,150979,151120,151264,151399,151511,151661,151789,151917,152053,152185,152315,152445,152557,152697,155342,155486,155624,155690,155780,155856,155960,156050,156152,156260,156368,156468,156548,156640,156738,156848,156926,157032,157124,157228,157338,157460,157623,157780,159174,159274,159364,159474,159568,159674,159766,159866,159978,160092,160208,160324,160418,160532,160644,160746,160866,160988,161070,161174,161294,161420,161518,161612,161700,161812,161928,162050,162162,162337,162453,162539,162631,162743,162867,162934,163060,163128,163256,163400,163528,163597,163692,163807,163920,164019,164128,164239,164350,164451,164556,164656,164786,164877,165000,165094,165206,165292,165396,165492,165580,165698,165802,165906,166032,166120,166228,166328,166418,166528,166612,166714,166798,166852,166916,167022,167132,167216,167336"
+                        "endOffsets": "202,247,296,4500,4555,4613,4675,4743,4821,4902,4963,5038,5114,5191,5269,5354,5436,5512,5588,5665,5743,5849,5955,6034,6114,6171,6229,7079,7154,7219,7285,7340,7412,7485,7552,7620,7679,7738,7797,7856,7915,7969,8023,8076,8130,8184,8238,8292,8587,8666,8739,8813,8884,8956,9028,9101,9158,9216,9289,9363,9437,9512,9584,9657,9727,9798,9858,9919,49119,49188,49258,49332,49408,49472,49549,49625,49702,49766,49831,49900,49977,50052,50121,50189,50266,50332,50429,50494,50563,50662,50733,50792,50850,50907,50966,51037,51109,51181,51253,51325,51392,51460,51528,51587,51650,51714,51804,51895,51955,52021,52088,52154,52224,52288,52341,52454,52512,52575,52640,52705,52780,52853,52925,52974,53035,53096,53157,53219,53283,53347,53411,53476,53539,53599,53660,53726,53785,53845,53907,53978,54038,54106,57029,57116,57369,57456,57544,57626,57709,57799,57890,59143,59201,59246,59312,59376,59433,59490,59544,59749,59797,59846,59897,59971,60197,60246,60439,60933,61045,61107,61295,61352,61673,61751,61844,61914,61992,62046,62116,62201,62249,62295,62366,62444,62522,62594,62668,62742,62816,62896,62969,63038,63110,63187,63239,63312,63386,63455,63530,63604,63678,63767,63837,66153,67848,67938,68026,68122,68212,69437,69526,69773,70054,70298,70583,70976,71453,71675,71897,72165,72392,72622,72852,73082,73312,73539,73778,74004,74249,74479,74727,74946,75229,75437,75568,75795,76041,76266,76513,76734,76979,77099,77375,77676,78000,78291,78605,78742,78873,78978,79220,79387,79591,79799,80070,80182,80294,80399,80516,80730,80876,81016,81102,81450,81538,81768,82186,82419,82501,82599,83191,83291,83527,83951,84190,84284,84373,84610,86634,86876,86978,87215,89371,99474,100725,110767,112030,113522,114058,114388,115449,116714,116970,117206,117753,118247,118852,119050,119630,120194,120569,120687,121225,121382,121578,121851,122107,122277,122418,122482,122764,123050,123726,123990,124328,124681,124775,124961,125267,125529,125654,125781,126020,126231,126350,126543,126720,127175,127356,127478,127737,127850,128037,128139,128583,128707,128982,129490,129986,130863,131157,131727,131876,132608,132780,133116,133208,133486,137298,140565,140627,141205,141789,141875,141988,142217,142377,142529,142700,142867,143110,143280,143453,143624,143898,144097,144302,144632,144716,144812,144908,145006,145106,145208,145310,145412,145514,145616,145716,145812,145924,146053,146176,146307,146438,146536,146650,146744,146864,147068,147137,147253,147381,147445,147649,147718,147850,147920,148060,148194,148290,148402,148502,148618,148714,148826,148926,149066,149202,149366,149496,149654,149804,149945,150089,150224,150336,150486,150614,150742,150878,151010,151140,151270,151382,151522,154167,154311,154449,154515,154605,154681,154785,154875,154977,155085,155193,155293,155373,155465,155563,155673,155751,155857,155949,156053,156163,156285,156448,156605,157999,158099,158189,158299,158393,158499,158591,158691,158803,158917,159033,159149,159243,159357,159469,159571,159691,159813,159895,159999,160119,160245,160343,160437,160525,160637,160753,160875,160987,161162,161278,161364,161456,161568,161692,161759,161885,161953,162081,162225,162353,162422,162517,162632,162745,162844,162953,163064,163175,163276,163381,163481,163611,163702,163825,163919,164031,164117,164221,164317,164405,164523,164627,164731,164857,164945,165053,165153,165243,165353,165437,165539,165623,165677,165741,165847,165957,166041,166161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "121,122,123,124,125,126,127,128,129,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,715,716,724,727,728,731,732,733,767,772,775,785,786,787,788,789,824,1146,1870,1871,2121,2124,2125,2128,2131,2134,2138,2178,2181,2186,2189,2194,2198,2305,2307,2311,2318,2322,2325,2334,2340,2343,2352,2356",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6378,6452,6533,6597,6663,6733,6803,6873,6943,54566,54620,54699,54772,54837,54900,54971,55042,55104,55173,55239,55306,55373,55429,55480,55533,55585,55639,55702,55761,55823,55882,55942,56005,56080,56152,56223,56279,56350,56407,56464,56530,56594,56665,56722,56775,56838,56890,60513,60560,60938,61112,61178,61357,61420,61477,63892,64251,64513,65179,65270,65571,65737,65892,68217,89376,133491,133588,152667,152868,152960,153139,153307,153482,153735,156610,156740,157098,157240,157610,157770,166305,166405,166646,167081,167288,167447,168012,168373,168502,169169,169349",
+                        "endLines": "121,122,123,124,125,126,127,128,129,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,715,716,724,727,728,731,732,733,767,772,775,785,786,787,788,789,827,1148,1870,1880,2123,2124,2127,2130,2133,2137,2142,2180,2185,2188,2193,2197,2201,2306,2310,2317,2321,2324,2333,2339,2342,2351,2355,2364",
+                        "endColumns": "73,80,63,65,69,69,69,69,66,53,78,72,64,62,70,70,61,68,65,66,66,55,50,52,51,53,62,58,61,58,59,62,74,71,70,55,70,56,56,65,63,70,56,52,62,51,57,46,44,47,65,61,62,56,56,144,120,86,90,300,165,154,101,12,12,96,12,12,91,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "6447,6528,6592,6658,6728,6798,6868,6938,7005,54615,54694,54767,54832,54895,54966,55037,55099,55168,55234,55301,55368,55424,55475,55528,55580,55634,55697,55756,55818,55877,55937,56000,56075,56147,56218,56274,56345,56402,56459,56525,56589,56660,56717,56770,56833,56885,56943,60555,60600,60981,61173,61235,61415,61472,61529,64032,64367,64595,65265,65566,65732,65887,65989,68499,89529,133583,134174,152863,152955,153134,153302,153477,153730,154021,156735,157093,157235,157605,157765,157919,166400,166641,167076,167283,167442,168007,168368,168497,169164,169344,170053"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\0fd2e7d3bd27c53df318e631674ec4f5\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,10,11,14,17,18,21,24,25,26,27,31,32,33,34,39,40,41,44,47,48,51,54,57,60,61,64,67,68,73,74,78,79,80,81,82,83,84,85,86,87,88",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,301,371,504,572,701,827,894,1017,1142,1209,1274,1339,1479,1545,1611,1678,1888,1957,2023,2148,2274,2341,2467,2594,2719,2846,2911,3037,3160,3225,3433,3500,3639,3704,3769,3831,3893,3955,4014,4074,4135,4196,4255",
+                        "endLines": "2,6,9,10,13,16,17,20,23,24,25,26,30,31,32,33,38,39,40,43,46,47,50,53,56,59,60,63,66,67,72,73,77,78,79,80,81,82,83,84,85,86,87,93",
+                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "147,366,499,567,696,822,889,1012,1137,1204,1269,1334,1474,1540,1606,1673,1883,1952,2018,2143,2269,2336,2462,2589,2714,2841,2906,3032,3155,3220,3428,3495,3634,3699,3764,3826,3888,3950,4009,4069,4130,4191,4250,4459"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3b696a8cae0c2263fc42024a275de364\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "153,2110,2112,2113,2118,2120",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "8429,151845,152021,152143,152405,152600",
+                        "endColumns": "88,65,121,60,65,66",
+                        "endOffsets": "8513,151906,152138,152199,152466,152662"
                     }
                 },
                 {
                     "source": "C:\\Projects\\appdev\\TinyDaycare\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "1,6,5,4,7,11,27,26,25,19,20,51,13,42,41,18,38,47,39,44,43,14,17,16,32,34,33,31,24,23,48,30,10,37,12,15,40,46,45",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "17,206,145,96,257,397,1204,1143,1083,839,885,2483,499,1951,1881,793,1728,2271,1795,2081,2023,597,745,702,1432,1578,1522,1366,1020,957,2357,1293,336,1659,453,660,1836,2205,2141",
-                        "endColumns": "49,49,59,47,55,54,59,59,58,44,47,69,96,70,68,44,65,84,39,58,56,61,46,41,88,53,54,64,61,61,63,71,59,67,44,40,43,64,62",
-                        "endOffsets": "62,251,200,139,308,447,1259,1198,1137,879,928,2548,591,2017,1945,833,1789,2351,1830,2135,2075,654,787,739,1516,1627,1572,1426,1077,1014,2416,1360,391,1722,493,696,1875,2265,2199"
+                        "startLines": "-1,-1,-1,-1,-1,55,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,2802,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,85,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,2883,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "766,768,769,770,771,773,775,776,777,778,779,780,781,782,783,789,790,792,793,794,795,797,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "63842,64037,64087,64147,64195,64372,64514,64574,64634,64693,64738,64786,64856,64953,65024,65908,65953,66072,66157,66197,66256,66384,66446,66493,66535,66624,66678,66733,66798,66860,66922,66986,67058,67118,67186,67231,67272,67316,67381",
-                        "endColumns": "49,49,59,47,55,54,59,59,58,44,47,69,96,70,68,44,65,84,39,58,56,61,46,41,88,53,54,64,61,61,63,71,59,67,44,40,43,64,62",
-                        "endOffsets": "63887,64082,64142,64190,64246,64422,64569,64629,64688,64733,64781,64851,64948,65019,65088,65948,66014,66152,66192,66251,66308,66441,66488,66530,66619,66673,66728,66793,66855,66917,66981,67053,67113,67181,67226,67267,67311,67376,67439"
+                        "startLines": "766,768,769,770,771,773,774,776,777,778,779,780,781,782,783,784,790,791,793,794,795,796,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "63842,64037,64087,64147,64195,64372,64458,64600,64660,64720,64779,64824,64872,64942,65039,65110,65994,66039,66158,66243,66283,66342,66470,66532,66579,66621,66710,66764,66819,66884,66946,67008,67072,67144,67204,67272,67353,67436,67517,67562,67603,67647,67712",
+                        "endColumns": "49,49,59,47,55,85,54,59,59,58,44,47,69,96,70,68,44,65,84,39,58,56,61,46,41,88,53,54,64,61,61,63,71,59,67,80,82,80,44,40,43,64,62",
+                        "endOffsets": "63887,64082,64142,64190,64246,64453,64508,64655,64715,64774,64819,64867,64937,65034,65105,65174,66034,66100,66238,66278,66337,66394,66527,66574,66616,66705,66759,66814,66879,66941,67003,67067,67139,67199,67267,67348,67431,67512,67557,67598,67642,67707,67770"
                     }
                 },
                 {
                     "source": "C:\\Projects\\appdev\\TinyDaycare\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
                         "startLines": "118,119,120",
@@ -1109,41 +1107,18 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\07deb3260f596d10816d237868989769\\res\\values\\values.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.1.0.aar\\3043cc63ddf205d851c8ab46175788d3\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,1153,1223,1291,1363,1433,1494,1555,1616,1678,1742,1804,1865,1933,2033,2093,2159,2232,2301,2358,2410,2472,2544,2620,2655,2690,2724,2759,2794,2864,2935,3052,3253,3363,3564,3693,3765",
-                        "endLines": "2,3,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,52,53,57,58,59,60",
-                        "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
-                        "endOffsets": "119,182,1218,1286,1358,1428,1489,1550,1611,1673,1737,1799,1860,1928,2028,2088,2154,2227,2296,2353,2405,2467,2539,2615,2650,2685,2719,2754,2789,2859,2930,3047,3248,3358,3559,3688,3760,3827"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "151,152,614,615,616,617,618,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,695,696,704,705,713,714,717,734,796,2103,2104,2109,2112,2117,2301,2302",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8297,8366,54225,54295,54363,54435,54505,58118,58179,58240,58302,58366,58428,58489,58557,58657,58717,58783,58856,58925,58982,59034,59549,59621,60042,60077,60444,60478,60605,61534,66313,152702,152819,153086,153379,153646,167341,167413",
-                        "endLines": "151,152,614,615,616,617,618,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,695,696,704,705,713,714,717,734,796,2103,2107,2109,2115,2117,2301,2302",
-                        "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
-                        "endOffsets": "8361,8424,54290,54358,54430,54500,54561,58174,58235,58297,58361,58423,58484,58552,58652,58712,58778,58851,58920,58977,59029,59091,59616,59692,60072,60107,60473,60508,60635,61599,66379,152814,153015,153191,153575,153770,167408,167475"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\2822d19a0fd4e41d214740c5b494a93c\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,107,177,310,378,507,633,700,823,948,1015,1080,1145,1285,1351,1417,1484,1694,1763,1829,1954,2080,2147,2273,2400,2525,2652,2717,2843,2966,3031,3239,3306,3445,3510,3575,3637,3699,3761,3820,3880,3941,4002,4061",
-                        "endLines": "2,3,6,7,10,13,14,17,20,21,22,23,27,28,29,30,35,36,37,40,43,44,47,50,53,56,57,60,63,64,69,70,74,75,76,77,78,79,80,81,82,83,84,90",
-                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
-                        "endOffsets": "102,172,305,373,502,628,695,818,943,1010,1075,1140,1280,1346,1412,1479,1689,1758,1824,1949,2075,2142,2268,2395,2520,2647,2712,2838,2961,3026,3234,3301,3440,3505,3570,3632,3694,3756,3815,3875,3936,3997,4056,4265"
-                    },
-                    "to": {
-                        "startLines": "2,6,7,10,11,14,17,18,21,24,25,26,27,31,32,33,34,39,40,41,44,47,48,51,54,57,60,61,64,67,68,73,74,78,79,80,81,82,83,84,85,86,87,88",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,301,371,504,572,701,827,894,1017,1142,1209,1274,1339,1479,1545,1611,1678,1888,1957,2023,2148,2274,2341,2467,2594,2719,2846,2911,3037,3160,3225,3433,3500,3639,3704,3769,3831,3893,3955,4014,4074,4135,4196,4255",
-                        "endLines": "2,6,9,10,13,16,17,20,23,24,25,26,30,31,32,33,38,39,40,43,46,47,50,53,56,59,60,63,66,67,72,73,77,78,79,80,81,82,83,84,85,86,87,93",
-                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
-                        "endOffsets": "147,366,499,567,696,822,889,1012,1137,1204,1269,1334,1474,1540,1606,1673,1883,1952,2018,2143,2269,2336,2462,2589,2714,2841,2906,3032,3155,3220,3428,3495,3634,3699,3764,3826,3888,3950,4009,4069,4130,4191,4250,4459"
+                        "startLines": "659,660,661,669,670,671,703",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57121,57180,57228,57895,57970,58046,59976",
+                        "endColumns": "58,47,55,74,75,71,65",
+                        "endOffsets": "57175,57223,57279,57965,58041,58113,60037"
                     }
                 }
             ]
@@ -1152,7 +1127,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1167,7 +1142,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1182,7 +1157,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1197,7 +1172,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1212,7 +1187,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v22_values-v22.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
@@ -1228,7 +1203,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1243,7 +1218,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-iw\\values-iw.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1258,7 +1233,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1273,7 +1248,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1288,7 +1263,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v25_values-v25.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
@@ -1304,26 +1279,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v26_values-v26.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values-v26\\values-v26.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,299",
-                        "endLines": "5,6",
-                        "endColumns": "12,96",
-                        "endOffsets": "294,391"
-                    },
-                    "to": {
-                        "startLines": "16,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "896,1233",
-                        "endLines": "19,21",
-                        "endColumns": "12,96",
-                        "endOffsets": "1135,1325"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -1340,6 +1296,25 @@
                         "endColumns": "74,86,12,12,12,92",
                         "endOffsets": "125,212,426,652,891,1228"
                     }
+                },
+                {
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,299",
+                        "endLines": "5,6",
+                        "endColumns": "12,96",
+                        "endOffsets": "294,391"
+                    },
+                    "to": {
+                        "startLines": "16,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "896,1233",
+                        "endLines": "19,21",
+                        "endColumns": "12,96",
+                        "endOffsets": "1135,1325"
+                    }
                 }
             ]
         },
@@ -1347,7 +1322,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1362,7 +1337,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-fr\\values-fr.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-fr\\values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1377,7 +1352,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-th\\values-th.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1392,7 +1367,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1407,7 +1382,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v12_values-v12.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -1423,7 +1398,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1438,7 +1413,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1453,7 +1428,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v13_values-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v13\\values-v13.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1468,7 +1443,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ro\\values-ro.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ro\\values-ro.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1483,7 +1458,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -1493,7 +1468,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -1517,7 +1492,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1532,7 +1507,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1547,7 +1522,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1562,7 +1537,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-v17_values-v17.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1578,7 +1553,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-mr\\values-mr.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1593,7 +1568,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1608,7 +1583,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1623,7 +1598,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1638,7 +1613,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1653,7 +1628,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1668,7 +1643,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13_values-h720dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1683,7 +1658,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1698,7 +1673,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ja\\values-ja.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1713,7 +1688,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4_values-xlarge-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -1728,7 +1703,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1743,7 +1718,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1758,7 +1733,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-el\\values-el.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1773,7 +1748,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-lo_values-lo.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1788,7 +1763,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1803,7 +1778,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-port_values-port.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1818,7 +1793,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1833,7 +1808,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1848,17 +1823,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6cdbe8edf139ad22348ad82b1353010f\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\2e10de3bf938c998e126f4ec70f476e1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1875,6 +1840,16 @@
                         "endColumns": "12",
                         "endOffsets": "505"
                     }
+                },
+                {
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
                 }
             ]
         },
@@ -1882,7 +1857,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1897,7 +1872,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1912,7 +1887,7 @@
             "outputFile": "C:\\Projects\\appdev\\TinyDaycare\\app\\build\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8db8370c92fd25751ac5115862cfaa4d\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\shaub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5f25351e9da59f2c1bc3c1f2ab7e5d91\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

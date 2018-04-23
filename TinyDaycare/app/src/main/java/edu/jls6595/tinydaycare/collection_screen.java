@@ -2,8 +2,11 @@ package edu.jls6595.tinydaycare;
 
 import android.app.Dialog;
 import android.app.DialogFragment;
+import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.database.DatabaseUtils;
+import android.database.sqlite.SQLiteDatabase;
 import android.media.Image;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -16,21 +19,17 @@ import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import static edu.jls6595.tinydaycare.PokemonList.getInstance;
 
 public class collection_screen extends AppCompatActivity {
 
-    // Used to register a callback when the currently selected pokemon is changed
-    public interface OnPokemonChange {
-        void changeComplete();
-    }
-
     private final int MAX_SIZE = 15;
     PokemonList pList;
-    private static OnPokemonChange listener;
     static Pokemon tappedPokemon;
-    ImageView tappedPokemonView;
+    private TextView careCoins;
+    private static SQLiteDatabase database;
 
     private static ImageView[] iViewArray;
 
@@ -79,6 +78,18 @@ public class collection_screen extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
+        // Get database instance
+        PokemonDB.getInstance(this).getDatabase(new PokemonDB.OnDBReadyListener() {
+            @Override
+            public void onDBReady(SQLiteDatabase db) {
+                database = db;
+                Log.d("collection", "database ready");
+            }
+        });
+
+        careCoins = findViewById(R.id.user_carecoins);
+        careCoins.setText(String.valueOf(User.getInstance().getNumCareCoins()));
+
         int i;
         int pListIndex = getInstance().getCurrentIndex();
         //Log.d("collection", "Getting pList instance");
@@ -98,10 +109,6 @@ public class collection_screen extends AppCompatActivity {
                 }
             });
         }
-    }
-
-    public void setOnPokemonChangeListener(OnPokemonChange listener) {
-        this.listener = listener;
     }
 
     private void createImageViewArray(ImageView[] array) {
@@ -132,9 +139,9 @@ public class collection_screen extends AppCompatActivity {
             Log.wtf("collectionscreen", "fatal error finding index in iViewArray");
         }
 
+        // TODO: isn't this next line the same as PokemonList.getList()[index] ?
         tappedPokemon = PokemonList.getInstance().findPokemonAtIndex(index);
         Log.d("collectionscreen", "tappedPokemon = " + tappedPokemon);
-        //tappedPokemonView = (ImageView) v;
 
         DialogFragment switchDialog = new SwitchDialog();
         switchDialog.show(getFragmentManager(), "confirmSwitch");
@@ -165,7 +172,28 @@ public class collection_screen extends AppCompatActivity {
             builder.setPositiveButton(R.string.switch_dialog_positive, new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialogInterface, int i) {
-                    positivePress();
+                    //Log.d("positivePress", "Dialog successfully called positivePress()");
+                    Log.d("collectionscreen", "tappedPokemon = " + tappedPokemon);
+
+                    // Set currentPokemon.current to false
+                    Pokemon currentPokemon = PokemonList.currentPokemon;
+                    currentPokemon.setCurrent(false);
+
+                    // Update in database
+                    ContentValues values = new ContentValues();
+                    String selection = "id = " + currentPokemon.getId();
+                    values.put("current", 0);
+                    database.update("pokemon", values, selection, null);
+
+                    // Set new current pokemon in database
+                    PokemonList.getInstance().updateCurrentPokemon(tappedPokemon);
+                    currentPokemon = PokemonList.currentPokemon;
+                    currentPokemon.setCurrent(true);
+                    selection = "id = " + currentPokemon.getId();
+                    values.put("current", 1);
+                    database.update("pokemon", values, selection, null);
+
+                    Log.d("collectionscreen", "current Pokemon = " + PokemonList.currentPokemon);
                 }
             });
 
@@ -183,8 +211,16 @@ public class collection_screen extends AppCompatActivity {
             Log.d("positivePress", "Dialog successfully called positivePress()");
             Log.d("collectionscreen", "tappedPokemon = " + tappedPokemon);
 
+            Pokemon currentPokemon = PokemonList.currentPokemon;
+            currentPokemon.setCurrent(false);
+
+            ContentValues values = new ContentValues();
+            String selection = "id = " + currentPokemon.getId();
+            values.put("current", 0);
+            database.update("pokemon", values, selection, null);
+
             PokemonList.getInstance().updateCurrentPokemon(tappedPokemon);
-            listener.changeComplete();
+            //listener.changeComplete();
             Log.d("collectionscreen", "current Pokemon = " + PokemonList.currentPokemon);
         }
     }
